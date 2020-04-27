@@ -1,0 +1,27 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Open connections from a local environment of a local server to be accessed from a remote server.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-file-config": "^0.0.8",
+    "node-promise-wrapper": "^0.0.2",
+    "express-http-proxy": "^1.6.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/animatedcreativity/node-connector-server"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "connector",
+    "server"
+  ]
+}
