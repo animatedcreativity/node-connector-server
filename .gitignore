@@ -1,5 +1,4 @@
 node_modules/*
-node-connector-server.js
 *lock*
 .glitch-assets
 shrinkwrap.yaml
