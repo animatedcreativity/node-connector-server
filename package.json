@@ -1,5 +1,5 @@
 {
-  "name": "hello-express",
+  "name": "node-connector-server",
   "version": "0.0.1",
   "description": "Open connections from a local environment of a local server to be accessed from a remote server.",
   "main": "main.js",
