@@ -2,3 +2,4 @@ node_modules/*
 *lock*
 .glitch-assets
 shrinkwrap.yaml
+package-lock.json
